@@ -1,0 +1,30 @@
+[
+
+	{
+		"question":"Ovde ide pitanje1",
+		"choice1": "Odgovor1",
+		"choice2": "Odgovor2",
+		"choice3": "Odgovor3",
+		"choice4": "Odgovor4",
+		"answer": 1
+	},
+
+	{
+		"question":"Ovde ide pitanje2",
+		"choice1": "Odgovor1",
+		"choice2": "Odgovor2",
+		"choice3": "Odgovor3",
+		"choice4": "Odgovor4",
+		"answer": 2
+	},
+
+	{
+		"question":"Ovde ide pitanje3",
+		"choice1": "Odgovor1",
+		"choice2": "Odgovor2",
+		"choice3": "Odgovor3",
+		"choice4": "Odgovor4",
+		"answer": 3
+	}
+
+]
